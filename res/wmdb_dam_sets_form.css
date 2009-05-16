@@ -1,0 +1,19 @@
+div.wmdb_dam_sets_sortable_row div.bgColor5 {
+	padding:5px;
+}
+div.wmdb_dam_sets_sortable_row input {
+	background-color:transparent;
+	cursor:pointer;
+	width:15px;
+}
+div.wmdb_dam_sets_sortable_row div.clearer {
+	clear:both;
+	font-size:1px;
+}
+div.wmdb_dam_sets_sortable_row div.wmdb_dam_sets_dia{
+	width:122px;
+	float:left;
+}
+div.wmdb_dam_sets_sortable_row .movehandle {
+	cursor: move;
+}

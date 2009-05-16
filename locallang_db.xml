@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>database</type>
+		<description>Language labels for database tables/fields belonging to extension 'wmdb_damassetsets'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="tx_wmdbdamsets_sets">Assetsets</label>
+			<label index="tx_wmdbdamsets_sets.title">title</label>
+			<label index="tx_wmdbdamsets_sets.description">description</label>
+			<label index="tx_wmdbdamsets_sets.categories">categories</label>
+			<label index="tx_wmdbdamsets_sets.all">all</label>
+			<label index="tx_wmdbdamsets_sets.use">use</label>
+			<label index="tx_wmdbdamsets_sets.assets">assets</label>
+			<label index="tx_wmdbdamsets_sets.no_set_selected">no set selected</label>
+			<label index="tx_wmdbdamsets_sets.create_new_set">create new set</label>
+			<label index="tx_wmdbdamsets_sets.set_as_current">set as current</label>
+			<label index="tx_wmdbdamsets_sets.add_to_current">add to current</label>
+			
+			<label index="tx_wmdbdamsets_sets.select_all">select all</label>
+			<label index="tx_wmdbdamsets_sets.select_none">select none</label>
+			<label index="tx_wmdbdamsets_sets.invert_selected">invert selected</label>
+			<label index="tx_wmdbdamsets_sets.hide_unselected">hide unselected</label>
+			<label index="tx_wmdbdamsets_sets.show_hidden">show hidden</label>
+			
+		</languageKey>
+		<languageKey index="de" type="array">
+			<label index="tx_wmdbdamsets_sets">Gruppen</label>
+			<label index="tx_wmdbdamsets_sets.title">Titel</label>
+			<label index="tx_wmdbdamsets_sets.description">Beschreibung</label>
+			<label index="tx_wmdbdamsets_sets.categories">Kategorien</label>
+			<label index="tx_wmdbdamsets_sets.all">alle</label>
+			<label index="tx_wmdbdamsets_sets.use">übernehme</label>
+			<label index="tx_wmdbdamsets_sets.assets">Dateien</label>
+			<label index="tx_wmdbdamsets_sets.no_set_selected">keine Gruppe ausgewählt</label>
+			<label index="tx_wmdbdamsets_sets.create_new_set">neue Gruppe erstellen</label>
+			<label index="tx_wmdbdamsets_sets.set_as_current">auswählen</label>
+			<label index="tx_wmdbdamsets_sets.add_to_current">zur aktiven Gruppe hinzufügen</label>
+
+			<label index="tx_wmdbdamsets_sets.select_all">alle auswählen</label>
+			<label index="tx_wmdbdamsets_sets.select_none">keines auswählen</label>
+			<label index="tx_wmdbdamsets_sets.invert_selected">Auswahl umkehren</label>
+			<label index="tx_wmdbdamsets_sets.hide_unselected">nicht ausgewählte verstecken</label>
+			<label index="tx_wmdbdamsets_sets.show_hidden">versteckte anzeigen</label>
+
+		</languageKey>
+	</data>
+</T3locallang>
